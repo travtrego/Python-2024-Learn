@@ -1,3 +1,5 @@
+#Learn Python Coding in 2024
+#Travis Trego
 import os
 os.system('clear')
 
@@ -22,3 +24,5 @@ fav_food = {
 	"Alfred" : "Pickles"
 }
 print (fav_food)
+
+#boolean is either true or false, exists: true or false
